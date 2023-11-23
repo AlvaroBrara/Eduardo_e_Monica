@@ -1,6 +1,6 @@
 <fable>
 	<page background="quarto.jpg" soundtrack="SnapInsta.io - Eduardo e Mônica (instrumental Legião Urbana) (128 kbps).mp3">
-      <agent x="40" y="350" x="500" y="500"/>
+      <agen img="quarto.jpg" x="40" y="350" l="500" a="500"/>
     
   </page>
 </fable>
