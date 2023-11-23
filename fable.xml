@@ -1,8 +1,8 @@
 <fable>
     <page background="preto.jpg">
         <agent text="Quem um dia irá dizer que não existe razão. Nas coisas feitas pelo coração..." font-size="22" color="red" x="60" y="-200" width="350" height="500"/>
-        <agent text="Próx" font-size="22" color="red" x="430" y="-400" width="350" height="500" on-touch="Próx" >
+        <agent text="Próx" font-size="22" color="red" x="430" y="-400" width="350" height="500" on-trigger="Próx" >
         	<Próx text="E quem me irá dizer que não existe razão"/>    
-        <agent/>
+        </agent>
     </page>
 </fable>
